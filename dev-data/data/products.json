@@ -1,0 +1,262 @@
+[
+    {
+        "_id" : "5f405be6ca651d1ad028b07d",
+        "images" : [ 
+            "product-5f405be6ca651d1ad028b07d-1598053381700-1.jpeg", 
+            "product-5f405be6ca651d1ad028b07d-1598053381702-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Prince James IV throne Chair",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-09-25T18:30:00.000Z",
+        "slug" : "prince-james-iv-throne-chair",
+
+        "productCover" : "product-5f405be6ca651d1ad028b07d-1598053381429-cover.jpeg",
+        "startingBid": 2250
+    },
+    {
+        "_id" : "5f405c72ca651d1ad028b07e",
+        "images" : [ 
+            "product-5f405c72ca651d1ad028b07e-1598053595335-1.jpeg", 
+            "product-5f405c72ca651d1ad028b07e-1598053595335-2.jpeg", 
+            "product-5f405c72ca651d1ad028b07e-1598053595336-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Son's Of Anarchy 1963 machine power motor Bike",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-09-20T18:30:00.000Z",
+        "slug" : "son's-of-anarchy-1963-machine-power-motor-bike",
+
+        "productCover" : "product-5f405c72ca651d1ad028b07e-1598053594216-cover.jpeg",
+        "startingBid": 3500
+    },
+    {
+        "_id" : "5f405d1eca651d1ad028b07f",
+        "images" : [ 
+            "product-5f405d1eca651d1ad028b07f-1598053700233-1.jpeg", 
+            "product-5f405d1eca651d1ad028b07f-1598053700234-3.jpeg", 
+            "product-5f405d1eca651d1ad028b07f-1598053700233-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Lara Croft's Ancient Bemunda triangle map and compass",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "lara-croft's-ancient-bemunda-triangle-map-and-compass",
+
+        "productCover" : "product-5f405d1eca651d1ad028b07f-1598053700019-cover.jpeg",
+        "startingBid": 1420
+    },
+    {
+        "_id" : "5f405d87ca651d1ad028b080",
+        "images" : [ 
+            "product-5f405d87ca651d1ad028b080-1598054027288-1.jpeg", 
+            "product-5f405d87ca651d1ad028b080-1598054027289-2.jpeg", 
+            "product-5f405d87ca651d1ad028b080-1598054027289-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "6 Bedroom twin Duplex arena in Iowa, United States",
+        "startTime" : "2020-09-18T18:00:00.000Z",
+        "endTime" : "2020-09-25T18:30:00.000Z",
+        "slug" : "6-bedroom-twin-duplex-arena-in-iowa-united-states",
+
+        "productCover" : "product-5f405d87ca651d1ad028b080-1598054027094-cover.jpeg",
+        "startingBid": 9200
+    },
+    {
+        "_id" : "5f405deeca651d1ad028b081",
+        "images" : [ 
+            "product-5f405deeca651d1ad028b081-1598054089352-2.jpeg", 
+            "product-5f405deeca651d1ad028b081-1598054089352-1.jpeg", 
+            "product-5f405deeca651d1ad028b081-1598054089352-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Cara Delavinge Paris Woman of Blood photo shoot",
+        "startTime" : "2020-09-22T18:00:00.000Z",
+        "endTime" : "2020-09-25T18:30:00.000Z",
+        "slug" : "cara-delavinge-paris-woman-of-blood-photo-shoot",
+
+        "productCover" : "product-5f405deeca651d1ad028b081-1598054089209-cover.jpeg",
+        "startingBid": 1000
+    },
+    {
+        "_id" : "5f405e52ca651d1ad028b082",
+        "images" : [ 
+            "product-5f405e52ca651d1ad028b082-1598054127537-3.jpeg", 
+            "product-5f405e52ca651d1ad028b082-1598054127537-1.jpeg", 
+            "product-5f405e52ca651d1ad028b082-1598054127537-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Winston Churchill Letter to the Britsh Commarade in Francen 1943",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "winston-churchill-letter-to-the-britsh-commarade-in-francen-1943",
+
+        "productCover" : "product-5f405e52ca651d1ad028b082-1598054127341-cover.jpeg",
+        "startingBid": 4250
+    },
+    {
+        "_id" : "5f405f87ca651d1ad028b083",
+        "images" : [ 
+            "product-5f405f87ca651d1ad028b083-1598054328136-1.jpeg", 
+            "product-5f405f87ca651d1ad028b083-1598054328144-2.jpeg", 
+            "product-5f405f87ca651d1ad028b083-1598054328146-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Liu-Que from the Qing Dynasty last remaining ceramic collection",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "liu-que-from-the-qing-dynasty-last-remaining-ceramic-collection",
+
+        "productCover" : "product-5f405f87ca651d1ad028b083-1598054327961-cover.jpeg",
+        "startingBid": 3000
+    },
+    {
+        "_id" : "5f406023ca651d1ad028b084",
+        "images" : [ 
+            "product-5f406023ca651d1ad028b084-1598054471870-2.jpeg", 
+            "product-5f406023ca651d1ad028b084-1598054471870-3.jpeg", 
+            "product-5f406023ca651d1ad028b084-1598054471870-1.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "oldest statue of lord krishna found at the bottom brahmupatra river in India",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "oldest-statue-of-lord-krishna-found-at-the-bottom-brahmupatra-river-in-india",
+        "productCover" : "product-5f406023ca651d1ad028b084-1598054471659-cover.jpeg",
+        "startingBid": 6300
+    },
+    {
+        "_id" : "5f4060e8ca651d1ad028b085",
+        "images" : [ 
+            "product-5f4060e8ca651d1ad028b085-1598054678510-3.jpeg", 
+            "product-5f4060e8ca651d1ad028b085-1598054678510-2.jpeg", 
+            "product-5f4060e8ca651d1ad028b085-1598054678509-1.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Wooden chair built from the ashes of the queen cleopatra",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "wooden-chair-built-from-the-ashes-of-the-queen-cleopatra",
+        "productCover" : "product-5f4060e8ca651d1ad028b085-1598054678342-cover.jpeg",
+        "startingBid": 5000
+    },
+    {
+        "_id" : "5f40616bca651d1ad028b086",
+        "images" : [ 
+            "product-5f40616bca651d1ad028b086-1598054860202-1.jpeg", 
+            "product-5f40616bca651d1ad028b086-1598054860203-3.jpeg", 
+            "product-5f40616bca651d1ad028b086-1598054860203-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "The first ever composition of the musical note written on a paper in 1531 and Pablo picasso 's 6th iteration of the Bull drawing",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "the-first-ever-composition-of-the-musical-note-written-on-a-paper-in-1531-and-pablo-picasso-'s-6th-iteration-of-the-bull-drawing",
+        "productCover" : "product-5f40616bca651d1ad028b086-1598054860018-cover.jpeg",
+        "startingBid": 1250
+    },
+    {
+        "_id" : "5f40620bca651d1ad028b087",
+        "images" : [ 
+            "product-5f40620bca651d1ad028b087-1598054977413-1.jpeg", 
+            "product-5f40620bca651d1ad028b087-1598054977413-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "The first Sample production of the Nokia 3310-rc mobile",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "the-first-sample-production-of-the-nokia-3310-rc-mobile",
+        "productCover" : "product-5f40620bca651d1ad028b087-1598054977264-cover.jpeg",
+        "startingBid": 350
+    },
+    {
+        "_id" : "5f406280ca651d1ad028b088",
+        "images" : [ 
+            "product-5f406280ca651d1ad028b088-1598055080037-2.jpeg", 
+            "product-5f406280ca651d1ad028b088-1598055080039-3.jpeg", 
+            "product-5f406280ca651d1ad028b088-1598055080032-1.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "King Caligula's most cherished lamp",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "king-caligula's-most-cherished-lamp",
+        "productCover" : "product-5f406280ca651d1ad028b088-1598055079859-cover.jpeg",
+        "startingBid": 850
+    },
+    {
+        "_id" : "5f40630eca651d1ad028b089",
+        "images" : [ 
+            "product-5f40630eca651d1ad028b089-1598055216886-3.jpeg", 
+            "product-5f40630eca651d1ad028b089-1598055216886-2.jpeg", 
+            "product-5f40630eca651d1ad028b089-1598055216885-1.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Harisson Ford's 2nd and only Stiring used in the cold war",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "harisson-ford's-2nd-and-only-stiring-used-in-the-cold-war",
+        "productCover" : "product-5f40630eca651d1ad028b089-1598055216699-cover.jpeg",
+        "startingBid": 22250
+    },
+    {
+        "_id" : "5f40635dca651d1ad028b08a",
+        "images" : [ 
+            "product-5f40635dca651d1ad028b08a-1598055296520-1.jpeg", 
+            "product-5f40635dca651d1ad028b08a-1598055296520-2.jpeg", 
+            "product-5f40635dca651d1ad028b08a-1598055296520-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "Niel Armstrongs 2003 Gold winning cycling bike",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "niel-armstrongs-2003-gold-winning-cycling-bike",
+        "productCover" : "product-5f40635dca651d1ad028b08a-1598055296226-cover.jpeg",
+        "startingBid": 1550
+    },
+    {
+        "_id" : "5f4063e4ca651d1ad028b08b",
+        "images" : [ 
+            "product-5f4063e4ca651d1ad028b08b-1598055425118-2.jpeg", 
+            "product-5f4063e4ca651d1ad028b08b-1598055425117-1.jpeg", 
+            "product-5f4063e4ca651d1ad028b08b-1598055425122-3.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "The Biafran Igboukwu art",
+        "startTime" : "2020-08-25T18:00:00.000Z",
+        "endTime" : "2020-08-25T18:30:00.000Z",
+        "slug" : "the-biafran-igboukwu-art",
+        "productCover" : "product-5f4063e4ca651d1ad028b08b-1598055424975-cover.jpeg",
+        "startingBid": 3250
+    },
+    {
+        "_id" : "5f406465ca651d1ad028b08c",
+        "images" : [ 
+            "product-5f406465ca651d1ad028b08c-1598055560421-1.jpeg", 
+            "product-5f406465ca651d1ad028b08c-1598055560422-3.jpeg", 
+            "product-5f406465ca651d1ad028b08c-1598055560422-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "President Abe Lincoln's collection of antiques",
+        "startTime" : "2020-09-08T20:15:00.000Z",
+        "endTime" : "2020-09-10T10:45:00.000Z",
+        "slug" : "president-abe-lincoln's-collection-of-antiques",
+        "productCover" : "product-5f406465ca651d1ad028b08c-1598055560282-cover.jpeg",
+        "startingBid": 5250
+    },
+    {
+        "_id" : "5f4064e0ca651d1ad028b08d",
+        "images" : [ 
+            "product-5f4064e0ca651d1ad028b08d-1598057126598-3.jpeg", 
+            "product-5f4064e0ca651d1ad028b08d-1598057126598-1.jpeg", 
+            "product-5f4064e0ca651d1ad028b08d-1598057126598-2.jpeg"
+        ],
+        "ongoing" : false,
+        "name" : "knights of Englands first bar table",
+        "startTime" : "2020-08-28T20:30:00.000Z",
+        "endTime" : "2020-09-29T21:30:00.000Z",
+        "slug" : "knights-of-englands-first-bar-table",
+        "productCover" : "product-5f4064e0ca651d1ad028b08d-1598057125027-cover.jpeg",
+        "startingBid": 25
+    }
+]

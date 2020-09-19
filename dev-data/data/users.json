@@ -1,0 +1,83 @@
+[
+    {
+        "_id" : "5f406552ca651d1ad028b08e",
+        "role" : "user",
+        "photo" : "user-5f406552ca651d1ad028b08e-1598055808842.jpeg",
+        "active" : true,
+        "email" : "joshua@gmail.com",
+        "username" : "grim Reaper",
+        "name" : "joshua",
+        "password" : "$2b$12$oVnoeyUKNEDM3e4v0sTRRuwSACfzg901GCNqPOMBqQ7MaDu6lr6r6"
+    },
+    {
+        "_id" : "5f4065b9ca651d1ad028b08f",
+        "role" : "user",
+        "photo" : "user-5f4065b9ca651d1ad028b08f-1598055874054.jpeg",
+        "active" : true,
+        "email" : "omotolaeniola@gmail.com",
+        "username" : "Africana",
+        "name" : "Omotola Eniola",
+        "password" : "$2b$12$f0uEQG.zlwnXGwPEGW3GB.Hw9JlDZKtNRm/3AKoBaqEH6rkAwcxLi"
+    },
+    {
+        "_id" : "5f4065f5ca651d1ad028b090",
+        "role" : "user",
+        "photo" : "default.jpg",
+        "active" : true,
+        "email" : "georgebest@gmail.com",
+        "username" : "Geo B",
+        "name" : "George Best",
+        "password" : "$2b$12$XKLxc8/7IA.QQQntJZwSx.TB8eiHHWKARvn1UEV0RCjslSn7dy3Cu"
+    },
+    {
+        "_id" : "5f406619ca651d1ad028b091",
+        "role" : "user",
+        "photo" : "user-5f406619ca651d1ad028b091-1598055976169.jpeg",
+        "active" : true,
+        "email" : "brunofernandes@gmail.com",
+        "username" : "Magnifico",
+        "name" : "Bruno Fernandes",
+        "password" : "$2b$12$WxLKQdhv.i4RJnBmOh7EjumiI6Sf13qiu1G7zHTpLOS3kBFMG.fUu"
+    },
+    {
+        "_id" : "5f40664dca651d1ad028b092",
+        "role" : "user",
+        "photo" : "user-5f40664dca651d1ad028b092-1598056028409.jpeg",
+        "active" : true,
+        "email" : "jamesspader@gmail.com",
+        "username" : "Neo",
+        "name" : "James Spader",
+        "password" : "$2b$12$HWD.R8as5I/q83eFjwAMUezghAoMaiiXPaveBez4ROVRbiipwBdqi"
+    },
+    {
+        "_id" : "5f40669aca651d1ad028b093",
+        "role" : "user",
+        "photo" : "user-5f40669aca651d1ad028b093-1598056100617.jpeg",
+        "active" : true,
+        "email" : "donnyvanlouis@gmail.com",
+        "username" : "DoVLis",
+        "name" : "Donny van louis",
+        "password" : "$2b$12$jK1okRR45t37Ybzw07raP.kCDUwNpLU8VtJZnyvKFca.lRarUSnce"
+    },
+    {
+        "_id" : "5f4066c0ca651d1ad028b094",
+        "role" : "user",
+        "photo" : "user-5f4066c0ca651d1ad028b094-1598056138983.jpeg",
+        "active" : true,
+        "email" : "jeancarter@gmail.com",
+        "username" : "scarface",
+        "name" : "Jean Carter",
+        "password" : "$2b$12$PT2oML.rClxDbL72DLzUPeyG4twSDrD/RUCBce/buO4GJZ5qSBuL6"
+    },
+    {
+        "_id" : "5f40671dca651d1ad028b095",
+        "role" : "user",
+        "photo" : "user-5f40671dca651d1ad028b095-1598056231330.jpeg",
+        "active" : true,
+        "email" : "lilianshwoaz@gmail.com",
+        "username" : "Lily❤❤❤",
+        "name" : "Lilian shwoaz",
+        "password" : "$2b$12$pzIuqG2QfJaArwb.7PKEaONqwfYxnkahl87VCiBjXfB4jyYJ.5Kv."
+    }
+
+]
